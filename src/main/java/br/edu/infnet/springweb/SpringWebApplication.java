@@ -8,6 +8,7 @@ public class SpringWebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringWebApplication.class, args);
+		System.out.println("ola mundo");
 	}
 
 }
